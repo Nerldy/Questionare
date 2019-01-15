@@ -1,0 +1,32 @@
+{
+  "name": "questionare-server",
+  "version": "1.0.0",
+  "description": "server for the questionare app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nerldy/questionare-server.git"
+  },
+  "keywords": [
+    "questionare",
+    "andela"
+  ],
+  "author": "Arnold Odhiambo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nerldy/questionare-server/issues"
+  },
+  "homepage": "https://github.com/Nerldy/questionare-server#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-0": "^6.24.1",
+    "eslint": "^5.12.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "nodemon": "^1.18.9"
+  }
+}
